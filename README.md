@@ -1,3 +1,3 @@
 Translator
 
-Click hear to visit my website https://endutranslator.netlify.app/
+Click to visit my translator https://endutranslator.netlify.app/
